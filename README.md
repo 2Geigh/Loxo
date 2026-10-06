@@ -1,2 +1,3 @@
-# Loxo
-A customizable, self-hostable CMS for markdown-based blogs.
+# Loxo 📝
+
+Creating a self-hosted, markdown-based personal website should be simple.
